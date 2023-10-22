@@ -7,6 +7,7 @@
 
 ### This is a simple [simon game](https://en.wikipedia.org/wiki/Simon_(game))
 
+* This is a simple simon game to play on your terminal
 * I made this game as a homework assignment
 * You should have `ruby v2.6` or above installed
 
